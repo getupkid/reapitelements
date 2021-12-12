@@ -1,0 +1,21 @@
+{
+    "name": "getupkid/reapitforms",
+    "description": "A fluent API for rendering Reapit Elements as HTML.",
+    "authors": [
+        {
+            "name": "Dale Nicholson",
+            "email": "dale.nicholson203@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.2.5",
+        "adamwathan/form": "^0.9.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "GetUpKid\\ReapitForms": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
